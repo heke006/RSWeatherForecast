@@ -8,3 +8,14 @@
 
 ![Mou icon](https://github.com/riversea2015/RSWeatherForecast/blob/master/test_4.gif?raw=true)
 
+#### Author
+
+he hai, hehai682@126.com
+
+#### License
+
+RSWeatherForecast is available under the MIT license. See the LICENSE file for more info.
+
+#### Notes
+
+...
